@@ -52,7 +52,7 @@
       <ul>
     <div class="row">
         <div class="column">
-            <img src="/elmanuk.jpg" alt="Team Member 1" width="300px">
+            ![alt text](https://github.com/elmanuk22/garauah/blob/main/eljajang.jpg?raw=true) width="300px">
           <h3>EL MANUK</h3>
           <p>DIA MAH BISA SEMUA EL MANUK</p>
         </div>
